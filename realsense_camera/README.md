@@ -1,6 +1,6 @@
 #Intel&reg; RealSense&trade; Camera Driver for ROS
 
-Please reference the documentation on the [ROS realsense_camera wiki](http://wiki.ros.org/realsense_camera).
+Please reference the documentation on the [ROS realsense_camera wiki](https://wiki.ros.org/realsense_camera).
 
 ##Unit Tests:
 The Unit Tests can be executed using either of the methods:

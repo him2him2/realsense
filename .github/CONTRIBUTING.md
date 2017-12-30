@@ -47,7 +47,7 @@ to see if your contribution is already documented.
 
 * Create a Topic branch for your work.
   * Base the topic branch on the ROS development branch `<ros release>-devel`.
-* Ensure changes follow the [ROS coding Style Guide](http://wiki.ros.org/StyleGuide)
+* Ensure changes follow the [ROS coding Style Guide](https://wiki.ros.org/StyleGuide)
 * Each commit needs to be functional/compile by itself.
 * Follow [Git Commit Guidelines](https://git-scm.com/book/ch5-2.html#Commit-Guidelines)
 regarding commit formatting.
@@ -71,5 +71,5 @@ expectation is the submitter replies within two weeks.
 
 * [Create a GitHub account](https://github.com/join)
 * [GitHub Pull Request documentation](https://help.github.com/articles/using-pull-requests)
-* [ROS coding Style Guide](http://wiki.ros.org/StyleGuide)
+* [ROS coding Style Guide](https://wiki.ros.org/StyleGuide)
 * [Git Commit Guidelines](https://git-scm.com/book/ch5-2.html#Commit-Guidelines)
